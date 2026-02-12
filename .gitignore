@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+credentials/
+output/
+*.docx
+!templates/*.docx
